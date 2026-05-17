@@ -34,4 +34,4 @@ Appen använder Apples MultipeerConnectivity-ramverk för lokal trådlös kommun
 
 Inga konton krävs. Inga analytiska tjänster används.
 
-**Kontakt:** Ville.aro16@hotmail.se
+**Kontakt:** Mallraaisolutions@gmail.com
