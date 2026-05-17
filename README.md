@@ -23,3 +23,15 @@ Nej, appen använder Bluetooth/lokalt nätverk. Ingen internetuppkoppling krävs
 
 **Appen kraschar eller beter sig konstigt?**
 Stäng appen helt och starta om den. Kontakta oss gärna på mallraaisolutions@gmail.com om problemet kvarstår.
+
+---
+
+## Integritetspolicy
+
+Infiltrate samlar inte in, lagrar eller delar någon personlig information.
+
+Appen använder Apples MultipeerConnectivity-ramverk för lokal trådlös kommunikation mellan enheter i närheten. Ingen data skickas till externa servrar.
+
+Inga konton krävs. Inga analytiska tjänster används.
+
+**Kontakt:** Ville.aro16@hotmail.se
